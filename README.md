@@ -4,7 +4,7 @@
 Algorithm created for evaluative activity of the data structure discipline
 
 ## Proposed
-* execute um script .py recebendo dois argumentos (arquivo txt de entrada e arquivo de saída)
+* run a .py script taking two arguments (input txt file and output file)
 * read a .txt file with maze configuration
 * transform maze to list item
 * find a better way to get out of maze
